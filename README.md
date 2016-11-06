@@ -25,4 +25,6 @@ $ary = $m->getMeta('https://github.com/diversen/get-meta-tags', array ('descript
 print_r($ary);
 ~~~
 
-License [MIT](https://opensource.org/licenses/MIT)
+## License
+
+MIT © [Dennis Iversen](https://github.com/diversen)
