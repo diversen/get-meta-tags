@@ -1,0 +1,26 @@
+{
+    "name": "diversen/get-meta-tags",
+    "type": "library",
+    "description": "Getting title and meta tags from external website using curl and DOM",
+    "homepage": "http://github.com/diversen/http-send-file",
+    "keywords": ["meta", "curl", "DOM"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Iversen",
+            "email": "dennis.iversen@gmail.com",
+            "homepage": "https://github.com/diversen",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "diversen\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
